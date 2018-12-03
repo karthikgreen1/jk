@@ -1,0 +1,5 @@
+https://encoretechnologies.github.io/blog/2018/06/ansiblepatchingautomation/
+
+https://opensource.com/article/18/3/ansible-patch-systems
+
+https://www.techinformant.in/patching-for-multiple-linux-servers-using-ansible/
